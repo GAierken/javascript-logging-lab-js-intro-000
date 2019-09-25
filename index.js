@@ -1,1 +1,2 @@
-console.log("it's gonna be ok")
+console.error('uncaught')
+console.warn('nim daydu ma lakwala')
