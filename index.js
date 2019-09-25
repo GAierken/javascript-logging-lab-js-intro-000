@@ -1,1 +1,2 @@
-console.error('HALP!')
+console.log("it's gonna be ok")
+
